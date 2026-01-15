@@ -109,7 +109,7 @@ csvshell.c              # Main source file (~600 lines)
 ## Author
 
 **Naikya Chandana**
-- GitHub: [@soupaar](https://github.com/soupaar)
+- GitHub: [@naikya-chandana](https://github.com/naikya-chandana)
 - LinkedIn: [Naikya Chandana](https://www.linkedin.com/in/naikya-chandana)
 
 ## License
